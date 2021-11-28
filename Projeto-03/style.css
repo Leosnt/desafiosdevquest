@@ -1,0 +1,14 @@
+.primeiro {
+    background-color: #F5F5F5;
+    margin: 40px 20px 40px 20px;
+    padding: 20px;
+    
+}
+
+.segundo {
+    background-color: #F0CCE2;
+    color: rgba(5, 99, 83, 0.6);
+    font-style: italic;
+    margin: 40px 20px 40px 20px;
+    padding: 20px;
+}

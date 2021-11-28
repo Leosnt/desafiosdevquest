@@ -1,0 +1,21 @@
+tr {
+    height: 30px;
+}
+
+td {
+    background-color: #424250;
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+.moda {
+    background-color: #BB86FC;
+    color: white;    
+  
+}
+
+.casa {
+    background-color: #00C4B4;
+    color: white;
+}
