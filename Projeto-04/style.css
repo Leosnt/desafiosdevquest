@@ -5,8 +5,8 @@ tr {
 td {
     background-color: #424250;
     width: 80px;
-    height: 30px;
     color: white;
+    padding: 5px;
 }
 
 .moda {
