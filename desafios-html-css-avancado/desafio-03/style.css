@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+.container{
+    display: flex;
+    width: 656px;
+    height: 368px;
+    max-width: 100%;
+    padding: 0px;
+
+}
+
+.imagem1{
+position:absolute; top: 24px; right: 309; bottom: 27px; left: 21px;
+
+}
+
+.imagem2{
+    position:absolute; top: 24px; right: 22; bottom: 288px; left: 364px;
+}
+
+.imagem3{
+    position:absolute; top: 95px; right: 191; bottom: 202px; left: 364px;
+}
+
+.imagem4{
+    position:absolute; top: 182px; right: 191; bottom: 115px; left: 364px;
+
+}
+
+.imagem5{
+    position:absolute; top: 269px; right: 191; bottom: 28px; left: 364px;
+
+}
+
+.propaganda{
+    position: absolute; top: 22px; right: 104px;
+}
+
+.texto-destaque{
+    position: absolute;
+}
+
+.visualizacao-destaque{
+    padding: 10px 0px;
+}
+
+.titulo-destaque{
+    padding-top: 10px;
+}
+
+.descricao{
+    float:right;
+    padding-left: 4px;
+}
+
+.descricao-titulo{
+    padding-bottom: 7px;
+}
+
+.descricao-visualizacao{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+

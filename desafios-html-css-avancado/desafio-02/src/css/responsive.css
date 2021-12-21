@@ -1,0 +1,36 @@
+@media (max-width:376px) {
+    .flex {
+        display: block;
+        max-width: 100%;
+        margin: 53px 19.36px 36px 20px;
+}
+
+    .coluna {
+        max-width: 100%;
+        margin: 0px 0px;
+        max-width: 100%;
+        margin: 0px;
+    }
+
+    .flex .rome-h1{
+        position: absolute;
+        margin:343px 224.86px 53.86px 22px;
+    }
+
+    .flex .starry-h1{
+        position: absolute;
+        margin:341px 122.35.86px 56px 19px;
+    }
+
+    .flex h1 {
+        position: absolute;
+        margin :341px 122.35px 56px 19.49px;
+    }
+
+    .flex a, .flex .quadro1-a {
+        padding: 0px;
+
+    }
+
+   
+}

@@ -1,0 +1,22 @@
+*{
+    max-width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color:#FFFFFF;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35.25px;
+    font-family: 'Public Sans', serif;
+}
+
+p{
+    color:#FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.98px;
+    font-family: 'Public Sans', serif;
+    padding: 5px;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
+
+.flex{
+    display: flex;
+    max-width: 100%;
+    white-space : nowrap;
+    height: 689px;
+    margin-right: 20.57px;
+    margin-left: 21px; 
+}
+
+.coluna{
+    display: flex;
+    flex-direction: column;
+    margin-top: 116px;
+}
+
+.flex a{
+    padding-right: 18.41px;
+}
+
+.flex .quadro1-a {
+    padding-right: 19.06px;
+
+}
+
+.flex .quadro4-a {
+    padding: 0px;
+}
+
+.flex .img3{
+    height: 431.86px;
+}
+
+.flex img{
+    max-width: 100%;
+    width: 335.64px;
+    height: 432px;
+}
+
+.flex h1{
+    position: absolute;
+    margin:341px 220.86px 56px 19.49px;
+}
+
+.flex .rome-h1{
+    margin-left: 26px;
+}
+
+.flex p{
+    position:absolute;
+    margin: 381px 164.57px 31px 19.49px;
+    padding-top: 5px;
+}

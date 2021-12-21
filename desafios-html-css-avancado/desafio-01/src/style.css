@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    height: 426px;
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo h1{
+    left: 106px;
+    margin-top: 48px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Public Sans', serif;
+}
+
+.logo img {
+    display: flex;
+    align-content:center;
+    height: 41.8px;
+    margin-left: 55.06px;
+    margin-top: 38px;
+    
+}
+
+.menu {
+    display: flex;
+    margin-right: 35px;
+}
+
+.menu li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-top: 55px;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 15px;
+}
+
+.menu .sobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #5BC241;
+    width: 60px;
+    height: 40px;
+    color: #FFFFFF;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 127px;
+    height: 39px;
+    margin-right: 74px;
+    margin-top: 54px;
+    border-radius: 10px;
+    background: #5BC241;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 300;
+    border: none;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
